@@ -16,3 +16,18 @@ To run this project, you will need the following:
 Ensure all components are properly connected and the required libraries are installed in the Arduino IDE.
 
 
+### Pin Mapping
+
+Below is the pin mapping used in this project:
+
+| **LCD Pin** | **Microcontroller Pin** | **Description**       |
+|-------------|-------------------------|-----------------------|
+| RS          | 2                       | Register Select       |
+| Enable      | 3                       | Enable Signal         |
+| D4          | 4                       | Data Line 4           |
+| D5          | 5                       | Data Line 5           |
+| D6          | 6                       | Data Line 6           |
+| D7          | 7                       | Data Line 7           |
+
+Ensure the connections are made as per the table above or adjust it in code.
+
