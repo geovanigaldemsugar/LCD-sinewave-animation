@@ -18,8 +18,6 @@ Ensure all components are properly connected and the required libraries are inst
 
 ### Pin Mapping
 
-Below is the pin mapping used in this project:
-
 | **LCD Pin** | **Microcontroller Pin** | **Description**       |
 |-------------|-------------------------|-----------------------|
 | RS          | 2                       | Register Select       |
